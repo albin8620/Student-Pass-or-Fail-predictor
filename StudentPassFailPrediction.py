@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 # Each row contains: [study_hours, attendance_percentage]
 
 X = [
-    [1, 40],
+    [1, 46],
     [2, 50],
     [3, 60],
     [4, 70],
